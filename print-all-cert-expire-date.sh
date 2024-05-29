@@ -3,6 +3,8 @@
 # shellcheck disable=SC2206
 
 ##
+## Author Matteo Lisi
+##
 ## Oiginal code: https://github.com/nekop/shiftbox/blob/master/v3-print-all-certs-expire-date
 ## Script to print all TLS Cert Expire Date for OpenShift v3
 ##
